@@ -37,11 +37,6 @@ export const DisplayPets: FC = () => {
     fetchData();
   }, []);
 
-  useEffect(() => {
-    setPets(pets);
-    console.log("pets", pets);
-  }, [pets]);
-
   return (
     <Table
       dataSource={pets}
