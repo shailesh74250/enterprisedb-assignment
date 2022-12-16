@@ -1,0 +1,33 @@
+/* @media (min-width: 768px) {
+  .meeting_details_section {
+    padding-top: 30px;
+    padding-left: 50px;
+  }
+} */
+
+.meeting_details_section {
+  width: 100%;
+  height: 100%;
+}
+
+.meeting_title {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.meeting_details {
+  font-size: 14px;
+  font-weight: 800;
+  color: grey;
+}
+
+.meeting_with {
+  font-size: 16px;
+  font-weight: bold;
+  color: grey;
+}
+
+.pets_img {
+  max-width: 100%;
+  min-height: 100%;
+}

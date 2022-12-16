@@ -1,0 +1,24 @@
+@media (max-width: 768px) {
+  .user_details_section {
+    padding-top: 30px;
+  }
+  .ant-form-item-label {
+    min-width: 100%; 
+  }
+  .ant-form-item-control {
+    min-width: 100% !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .user_details_section {
+    padding-top: 30px;
+    padding-right: 50px;
+  }
+  .ant-form-item-label {
+    min-width: 100%; 
+  }
+  .ant-form-item-control {
+    min-width: 90% !important;
+  }
+}

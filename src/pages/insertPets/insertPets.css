@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+  .ud {
+    border-top: 1px solid #f0ece2;
+    border-width: 0.1px;
+    min-width: 100%;
+  }
+  .md {
+    padding-bottom: 20px;
+  }
+}
+@media (min-width: 768px) {
+  .ud {
+    border-left: 1px solid #f0ece2;
+    border-width: 0.1px;
+    padding-left: 50px;
+  }
+}
