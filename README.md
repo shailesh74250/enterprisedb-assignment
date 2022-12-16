@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Go to server and install dependency using yarn or npm 
 Run server using yarn run server command, it going to run on port 3000
 
+###  Run react app 
 In the project directory, you can run:
 
 ### `yarn start`
@@ -32,15 +33,15 @@ For project setup you can clone repository and do yarn or npm install, it will i
 yarn start for running project in local
 
 ## Technical tools used in project
-React version 18.2.0 with create-react-app
-Typescript 
-Eslint
-Prettier
-Test cases (unit, integration)
-Ant-Design
-Reusable Components
-Build deployed over the AWS S3 bucket 
-Prop types using interface
-Responsive using media queries
-Well-defined production-ready clean structure
+- React version 18.2.0 with create-react-app
+- Typescript 
+- Eslint
+- Prettier
+- Test cases (unit, integration)
+- Ant-Design
+- Reusable Components
+- Build deployed over the AWS S3 bucket 
+- Prop types using interface
+- Responsive using media queries
+- Well-defined production-ready clean structure
 
