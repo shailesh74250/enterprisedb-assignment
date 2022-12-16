@@ -1,16 +1,17 @@
-# Veris Assignment
-
-## Visit
-Open [http://veris-assignment.s3-website.ap-south-1.amazonaws.com]
+# EDB Assignment
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
+###  Used json server and it going to be run on 3000 
+Go to server and install dependency using yarn or npm 
+Run server using yarn run server command, it going to run on port 3000
+
 In the project directory, you can run:
 
 ### `yarn start`
-Start the project on port 3000
+Start the project on port 3001
 ### `yarn test`
 Run the unit and integration test cases
 ### `yarn build`
